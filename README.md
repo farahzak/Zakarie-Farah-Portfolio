@@ -11,14 +11,30 @@ Welcome to my project portfolio — a collection of business-focused, data-drive
 
 ### 📦 E-Commerce Allocation & Sales Optimization  
 **[View Full Project ➝](https://github.com/farahzak/E-commerce)**  
-Simulates the role of a merchandising or allocation analyst, using real e-commerce sales data to optimize product mix, identify seasonal trends, and uncover cross-sell strategies.
+Simulates the role of a merchandising or allocation analyst using e-commerce sales data to drive smarter SKU allocation, pricing, and bundling decisions across regional markets.
 
-**Highlights:**
-- Geographic demand mapping (SF, LA, NYC)
-- Seasonal forecasting with December peak sales
-- Product bundling & pricing elasticity insights
+**Business Impact:**
+- Aligns directly with retail allocation logic (TJX-style)
+- Mirrors the cycle of analysis → recommendation → action
 
-![ecommerce_banner](https://github.com/farahzak/E-commerce/raw/main/images/monthly_sales.png)
+**Key Highlights:**
+- 🏙️ **Geographic Performance**: Cities like SF, LA, and NYC generate the majority of revenue and order volume — ideal targets for deeper allocation.
+- 📆 **Seasonality Insights**: December sales spike confirms classic holiday buying trends; January drop signals opportunity for off-peak testing.
+- 📦 **SKU Concentration**: Top 5 products drive over 60% of revenue, with some high-priced SKUs dominating despite lower quantity.
+- 🔗 **Bundling & Association**: Strong product pairings suggest potential for cross-sell campaigns and dynamic promotions.
+- 💸 **Pricing Sensitivity**: Clear inverse correlation between price and quantity sold — supports tiered discounting and markdown strategy.
+
+**Visuals:**
+
+![Monthly Sales](https://github.com/farahzak/E-commerce/raw/main/images/monthly_sales.png)  
+*Figure 1: Revenue peaks in December, with a classic post-holiday dip in January.*
+
+![Price vs Quantity](https://github.com/farahzak/E-commerce/raw/main/images/top_products.png)  
+*Figure 2: Higher-priced items sell less frequently — an opportunity for bundle promotions.*
+
+**Tools Used:**  
+Python (Pandas, Matplotlib, Seaborn) | Data Aggregation | Visual Storytelling | Retail Pricing Strategy
+
 
 ---
 
@@ -63,6 +79,6 @@ Built an interactive dashboard summarizing YouTube video engagement using Excel 
 
 ## 📫 Contact
 
-- 📧 Email: farahzak@example.com *(replace with your actual email)*
+- 📧 Email: farahzakarie@gmail.com*
 - 💼 LinkedIn: [linkedin.com/in/farahzak](https://www.linkedin.com/in/farahzak)
 - 🌐 GitHub: [github.com/farahzak](https://github.com/farahzak)
