@@ -43,9 +43,9 @@ Python (Pandas, Matplotlib, Seaborn) | Data Aggregation | Visual Storytelling | 
 Modeled customer segmentation for a mock consumer goods brand using demographic, behavioral, and preference data. Applied clustering techniques and translated segments into marketing personas.
 
 **Highlights:**
-- K-means segmentation across 4 distinct consumer profiles
-- Marketing-ready recommendations tailored by cluster
-- Persona-based messaging strategies for targeting
+Designed, tested, and validated a full consumer survey instrument
+Clustered shoppers by sustainable product preferences and price sensitivity
+Delivered persona-driven marketing strategies supported by clean, verified data
 
 ![Customer Segment Distribution](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Customer%20Segment%20Distribution%20(1).png)
 
