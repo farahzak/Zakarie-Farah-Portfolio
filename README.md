@@ -53,12 +53,22 @@ Delivered persona-driven marketing strategies supported by clean, verified data
 
 ## 🔍 Supporting Projects
 
-### 📈 S&P 500 Time Series Forecasting  
-**[View Project ➝](https://github.com/farahzak/Stock-Exchange)**  
-Performed time-series analysis and moving average smoothing on S&P 500 historical data to detect price momentum and trend shifts.
+### 📈 S&P 500 Stock Price Analysis  
+**[View Full Project ➝](https://github.com/farahzak/Stock-Exchange)**  
+Explored the price dynamics of Apple, Amazon, Google, and Microsoft over a 5-year window using Python. The project breaks down stock behavior using moving averages, resampling, and correlation heatmaps to uncover trends and relationships in the tech sector.
 
-- Identified historical dips and volatility trends
-- Used 30-day & 90-day moving averages for pattern detection
+**Highlights:**
+- Visualized 10-, 20-, and 30-day moving averages to assess market momentum  
+- Resampled Apple stock monthly to spot long-term trends  
+- Created a correlation heatmap to reveal price movement similarities across major tech stocks  
+- Conducted daily return analysis to uncover volatility profiles
+
+![Stock Correlation Heatmap](https://github.com/farahzak/Stock-Exchange/raw/main/images/stock_correlation_heatmap.png)  
+*Figure: Correlation heatmap showing stock relationships — Amazon & Microsoft show strong alignment.*
+
+![Daily Returns](https://github.com/farahzak/Stock-Exchange/raw/main/images/newplot.png)  
+*Figure: Daily return plot — Apple shows stable performance with lower volatility.*
+n
 
 ---
 
