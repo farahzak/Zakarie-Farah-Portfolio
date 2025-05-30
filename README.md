@@ -47,7 +47,7 @@ Modeled customer segmentation for a mock consumer goods brand using demographic,
 - Marketing-ready recommendations tailored by cluster
 - Persona-based messaging strategies for targeting
 
-![customer_segments](https://github.com/farahzak/Ipsos-Market-Research-Simulation/raw/main/images/customer_segments.png)
+![Customer Segment Distribution](https://github.com/farahzak/Ipsos-Market-Research-Simulation/blob/main/images/Customer%20Segment%20Distribution%20(1).png)
 
 ---
 
