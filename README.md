@@ -1,9 +1,14 @@
-# Zakarie-Farah-Portfolio
-A data and business analytics portfolio by Zakarie Farah, featuring projects in allocation, segmentation, and time-series forecasting.
+# Hey! I'm Zak 👋  
 
-# 📊 Zakarie Farah — Data & Business Analytics Portfolio
+**If you managed to click — I won!** 🎉
 
-Welcome to my project portfolio — a collection of business-focused, data-driven case studies that reflect my passion for solving real-world problems through analytics. With hands-on experience in both corporate finance and retail operations, I’ve created these projects to simulate high-impact work in allocation, market segmentation, and time-series forecasting.
+Welcome to my portfolio! I’m Zakarie, an aspiring analyst who’s always been curious about how numbers, strategy, and people come together to drive decisions. When I’m not knee-deep in data, you’ll probably catch me playing soccer ⚽ or dissecting the strategy behind a new business case.  
+
+I love working on projects that connect **quantitative analysis** with **real-world business problems** — whether that’s optimizing e-commerce inventory, clustering consumer segments, or exploring risk in financial markets. You’ll find a mix of **data analysis**, **market research**, and **risk strategy** projects across industries in this portfolio, all driven by curiosity and a love for numbers.
+
+My favorite types of problems involve using math to explain what’s going on underneath the surface — from understanding how customer behavior impacts revenue to forecasting trends based on historical data. I believe data tells a story, and I’m here to help bring it to life.
+
+Thanks for stopping by — let’s dive in! 🚀
 
 ---
 
@@ -72,12 +77,13 @@ n
 
 ---
 
-### 📺 YouTube Channel Engagement Dashboard  
+### 📊 YouTube Video Engagement Analysis  
 **[View Project ➝](https://github.com/farahzak/Data-Analyst-and-Visualization-Portfolio)**  
-Built an interactive dashboard summarizing YouTube video engagement using Excel and Jupyter. Insights used to shape posting schedules and video types.
+Analyzed a CSV dataset of YouTube channel performance using Excel and Python to uncover trends in video engagement. Focused on likes, views, comment activity, and title/genre performance to draw actionable insights for content strategy.
 
-- Analyzed likes/views/comments over time
-- Identified best-performing content by title & genre
+- Identified which videos drove the most engagement across key metrics  
+- Found patterns in upload timing, content style, and performance  
+- Extracted insights to inform future posting strategies and boost visibility
 
 ---
 
