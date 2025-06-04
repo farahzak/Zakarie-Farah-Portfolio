@@ -96,5 +96,5 @@ Analyzed a CSV dataset of YouTube channel performance using Excel and Python to 
 ## 📫 Contact
 
 - 📧 Email: farahzakarie@gmail.com*
-- 💼 LinkedIn: [linkedin.com/in/farahzak](https://www.linkedin.com/in/farahzak)
+- 💼 LinkedIn: [linkedin.com/in/farahzak](https://www.linkedin.com/in/zak-farah/))
 - 🌐 GitHub: [github.com/farahzak](https://github.com/farahzak)
