@@ -85,11 +85,6 @@ Analyzed a CSV dataset of YouTube channel performance using Excel and Python to 
 - Found patterns in upload timing, content style, and performance  
 - Extracted insights to inform future posting strategies and boost visibility
 
----
-
-## 🧱 Capstone (Coming Soon)
-
-📌 *A portfolio-topping Allocation Simulation built around TJX's merchandising model — launching June 2025.*
 
 ---
 
